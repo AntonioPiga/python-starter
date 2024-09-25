@@ -4,10 +4,11 @@
     "runArgs": [
         "--init"
     ],
+    
     "customizations": {
         "vscode": {
             "extensions": [
-                "nuvolaris.nuvolaris-vscode-extension"
+                "pgant.antonio-ops-vscode-extension"
             ]
         }
     }
